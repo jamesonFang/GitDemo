@@ -12,6 +12,10 @@ public class Demo {
 			System.out.print(i +"---");
 		}
 	}
+	
+	public static void sayHelloWord(){
+		System.out.println("·¿Çì²¨£¬ ÄãºÃ£¡");
+	}
 
 	
 	/***
