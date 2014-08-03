@@ -2,6 +2,9 @@ package com.git;
 
 public class Demo {
 
+	public static void sayFuckYou(){
+		System.out.println("ܳ ni ma!");
+	}
 	/**
 	 * @param args
 	 */
