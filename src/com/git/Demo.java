@@ -6,7 +6,7 @@ public class Demo {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		int[] arrayInt= {3,1,2,4,65,7,89,0};
+		int[] arrayInt= {3,1,2,4,65,7,89,0,100};
 		sortArray(arrayInt);
 		for(int i:arrayInt){
 			System.out.print(i +"---");
